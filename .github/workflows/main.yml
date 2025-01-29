@@ -92,4 +92,4 @@ jobs:
         uses: actions/upload-artifact@v3
         with:
           name: FlappyBirdRemake_Archive
-          path: "$env:PackageOutputRootDir\FlappyBirdRemake_Archive.zip"
+          path: "$env:PackageOutputRootDir/FlappyBirdRemake_Archive.zip"
