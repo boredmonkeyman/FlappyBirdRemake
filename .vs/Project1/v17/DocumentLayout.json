@@ -1,0 +1,221 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\vspp0\\OneDrive\\Documents\\termThree\\PROG2370\\Project1\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{9126713F-5C22-4A63-91A8-FDB04EEC7A92}|Project1\\Project1.csproj|C:\\Users\\vspp0\\OneDrive\\Documents\\termThree\\PROG2370\\Project1\\project1\\menucomponent.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9126713F-5C22-4A63-91A8-FDB04EEC7A92}|Project1\\Project1.csproj|solutionrelative:project1\\menucomponent.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9126713F-5C22-4A63-91A8-FDB04EEC7A92}|Project1\\Project1.csproj|c:\\users\\vspp0\\onedrive\\documents\\termthree\\prog2370\\project1\\project1\\startscene.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9126713F-5C22-4A63-91A8-FDB04EEC7A92}|Project1\\Project1.csproj|solutionrelative:project1\\startscene.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9126713F-5C22-4A63-91A8-FDB04EEC7A92}|Project1\\Project1.csproj|c:\\users\\vspp0\\onedrive\\documents\\termthree\\prog2370\\project1\\project1\\levelonescene.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9126713F-5C22-4A63-91A8-FDB04EEC7A92}|Project1\\Project1.csproj|solutionrelative:project1\\levelonescene.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9126713F-5C22-4A63-91A8-FDB04EEC7A92}|Project1\\Project1.csproj|C:\\Users\\vspp0\\OneDrive\\Documents\\termThree\\PROG2370\\Project1\\project1\\endscene.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9126713F-5C22-4A63-91A8-FDB04EEC7A92}|Project1\\Project1.csproj|solutionrelative:project1\\endscene.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9126713F-5C22-4A63-91A8-FDB04EEC7A92}|Project1\\Project1.csproj|C:\\Users\\vspp0\\OneDrive\\Documents\\termThree\\PROG2370\\Project1\\project1\\game1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9126713F-5C22-4A63-91A8-FDB04EEC7A92}|Project1\\Project1.csproj|solutionrelative:project1\\game1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9126713F-5C22-4A63-91A8-FDB04EEC7A92}|Project1\\Project1.csproj|C:\\Users\\vspp0\\OneDrive\\Documents\\termThree\\PROG2370\\Project1\\project1\\leveltwoscene.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9126713F-5C22-4A63-91A8-FDB04EEC7A92}|Project1\\Project1.csproj|solutionrelative:project1\\leveltwoscene.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9126713F-5C22-4A63-91A8-FDB04EEC7A92}|Project1\\Project1.csproj|C:\\Users\\vspp0\\OneDrive\\Documents\\termThree\\PROG2370\\Project1\\project1\\helpscene.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9126713F-5C22-4A63-91A8-FDB04EEC7A92}|Project1\\Project1.csproj|solutionrelative:project1\\helpscene.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 17,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{e506b91c-c606-466a-90a9-123d1d1e12b3}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:129:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{e1b7d1f8-9b3c-49b1-8f4f-bfc63a88835d}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{b1e99781-ab81-11d0-b683-00aa00a3ee26}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3822e751-eb69-4b0e-b301-595a9e4c74d5}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{d78612c7-9962-4b83-95d9-268046dad23a}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{fbcae063-e2c0-4ab1-a516-996ea3dafb72}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{e5c86464-96be-4d7c-9a8b-abcb3bbf5f92}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{34e76e81-ee4a-11d0-ae2e-00a0c90fffc3}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "StartScene.cs",
+              "DocumentMoniker": "C:\\Users\\vspp0\\OneDrive\\Documents\\termThree\\PROG2370\\Project1\\Project1\\StartScene.cs",
+              "RelativeDocumentMoniker": "Project1\\StartScene.cs",
+              "ToolTip": "C:\\Users\\vspp0\\OneDrive\\Documents\\termThree\\PROG2370\\Project1\\Project1\\StartScene.cs",
+              "RelativeToolTip": "Project1\\StartScene.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-29T07:03:49.962Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Game1.cs",
+              "DocumentMoniker": "C:\\Users\\vspp0\\OneDrive\\Documents\\termThree\\PROG2370\\Project1\\Project1\\Game1.cs",
+              "RelativeDocumentMoniker": "Project1\\Game1.cs",
+              "ToolTip": "C:\\Users\\vspp0\\OneDrive\\Documents\\termThree\\PROG2370\\Project1\\Project1\\Game1.cs",
+              "RelativeToolTip": "Project1\\Game1.cs",
+              "ViewState": "AQIAAEAAAAAAAAAAAAAgwBoAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-11T05:23:57.101Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "HelpScene.cs",
+              "DocumentMoniker": "C:\\Users\\vspp0\\OneDrive\\Documents\\termThree\\PROG2370\\Project1\\Project1\\HelpScene.cs",
+              "RelativeDocumentMoniker": "Project1\\HelpScene.cs",
+              "ToolTip": "C:\\Users\\vspp0\\OneDrive\\Documents\\termThree\\PROG2370\\Project1\\Project1\\HelpScene.cs",
+              "RelativeToolTip": "Project1\\HelpScene.cs",
+              "ViewState": "AQIAAAgAAAAAAAAAAAAAwAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-11T06:05:45.228Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "LevelOneScene.cs",
+              "DocumentMoniker": "C:\\Users\\vspp0\\OneDrive\\Documents\\termThree\\PROG2370\\Project1\\Project1\\LevelOneScene.cs",
+              "RelativeDocumentMoniker": "Project1\\LevelOneScene.cs",
+              "ToolTip": "C:\\Users\\vspp0\\OneDrive\\Documents\\termThree\\PROG2370\\Project1\\Project1\\LevelOneScene.cs",
+              "RelativeToolTip": "Project1\\LevelOneScene.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAIAAAAA2AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-10T00:57:27.494Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "EndScene.cs",
+              "DocumentMoniker": "C:\\Users\\vspp0\\OneDrive\\Documents\\termThree\\PROG2370\\Project1\\Project1\\EndScene.cs",
+              "RelativeDocumentMoniker": "Project1\\EndScene.cs",
+              "ToolTip": "C:\\Users\\vspp0\\OneDrive\\Documents\\termThree\\PROG2370\\Project1\\Project1\\EndScene.cs",
+              "RelativeToolTip": "Project1\\EndScene.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAB0AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-11T04:55:08.482Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "MenuComponent.cs",
+              "DocumentMoniker": "C:\\Users\\vspp0\\OneDrive\\Documents\\termThree\\PROG2370\\Project1\\Project1\\MenuComponent.cs",
+              "RelativeDocumentMoniker": "Project1\\MenuComponent.cs",
+              "ToolTip": "C:\\Users\\vspp0\\OneDrive\\Documents\\termThree\\PROG2370\\Project1\\Project1\\MenuComponent.cs",
+              "RelativeToolTip": "Project1\\MenuComponent.cs",
+              "ViewState": "AQIAAHEAAAAAAAAAAAAmwHAAAAAZAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-12T16:48:53.78Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "LevelTwoScene.cs",
+              "DocumentMoniker": "C:\\Users\\vspp0\\OneDrive\\Documents\\termThree\\PROG2370\\Project1\\Project1\\LevelTwoScene.cs",
+              "RelativeDocumentMoniker": "Project1\\LevelTwoScene.cs",
+              "ToolTip": "C:\\Users\\vspp0\\OneDrive\\Documents\\termThree\\PROG2370\\Project1\\Project1\\LevelTwoScene.cs",
+              "RelativeToolTip": "Project1\\LevelTwoScene.cs",
+              "ViewState": "AQIAADQAAAAAAAAAAAAkwKUAAAAgAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-11T02:55:19.103Z"
+            }
+          ]
+        },
+        {
+          "DockedWidth": 54,
+          "SelectedChildIndex": -1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:130:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:131:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:134:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:132:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:133:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:135:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:136:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c64b9c2-e352-428e-a56d-0ace190b99a6}"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

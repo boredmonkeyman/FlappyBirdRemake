@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="utf-8"?>
+<SourceFileCollection xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Profile>Reach</Profile>
+  <Platform>DesktopGL</Platform>
+  <Config />
+  <SourceFiles>
+    <File>C:/Users/vspp0/OneDrive/Documents/termThree/PROG2370/Project1/Project1/Content/audio/backgroundMusic.mp3</File>
+    <File>C:/Users/vspp0/OneDrive/Documents/termThree/PROG2370/Project1/Project1/Content/fonts/HilightFont.spritefont</File>
+    <File>C:/Users/vspp0/OneDrive/Documents/termThree/PROG2370/Project1/Project1/Content/fonts/RegularFont.spritefont</File>
+    <File>C:/Users/vspp0/OneDrive/Documents/termThree/PROG2370/Project1/Project1/Content/images/1.png</File>
+    <File>C:/Users/vspp0/OneDrive/Documents/termThree/PROG2370/Project1/Project1/Content/images/2.png</File>
+    <File>C:/Users/vspp0/OneDrive/Documents/termThree/PROG2370/Project1/Project1/Content/images/background.png</File>
+    <File>C:/Users/vspp0/OneDrive/Documents/termThree/PROG2370/Project1/Project1/Content/images/bird.png</File>
+    <File>C:/Users/vspp0/OneDrive/Documents/termThree/PROG2370/Project1/Project1/Content/images/explosion.png</File>
+    <File>C:/Users/vspp0/OneDrive/Documents/termThree/PROG2370/Project1/Project1/Content/images/gameover.png</File>
+    <File>C:/Users/vspp0/OneDrive/Documents/termThree/PROG2370/Project1/Project1/Content/images/pipe-green.png</File>
+    <File>C:/Users/vspp0/OneDrive/Documents/termThree/PROG2370/Project1/Project1/Content/images/pipe.jpg</File>
+    <File>C:/Users/vspp0/OneDrive/Documents/termThree/PROG2370/Project1/Project1/Content/images/yellowbird-downflap.png</File>
+    <File>C:/Users/vspp0/OneDrive/Documents/termThree/PROG2370/Project1/Project1/Content/images/yellowbird-midflap.png</File>
+    <File>C:/Users/vspp0/OneDrive/Documents/termThree/PROG2370/Project1/Project1/Content/images/yellowbird-upflap.png</File>
+    <File>C:/Users/vspp0/OneDrive/Documents/termThree/PROG2370/Project1/Project1/Content/ScoreFont.spritefont</File>
+  </SourceFiles>
+  <DestFiles>
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+  </DestFiles>
+</SourceFileCollection>
